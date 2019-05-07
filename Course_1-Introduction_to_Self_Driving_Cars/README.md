@@ -9,3 +9,9 @@
 
 #### Dr. Krzysztof Czarnecki'spaper on WISE Drive: Requirements Analysis Framework for Automated Driving Systems
 - https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/projects/wise-drive-requirements-analysis-framework-automated-driving
+
+#### CARLA Github Source Code
+- https://github.com/carla-simulator/carla/
+
+#### Unreal Engine
+- https://www.unrealengine.com/en-US/features
